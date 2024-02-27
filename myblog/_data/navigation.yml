@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /posts/
+  - title: "Research"
+    url: /research/
+  - title: "Work"
+    url: /work/
+  - title: "CV"
+    url: /cv/
+  - title: "简历"
+    url: /chcv/
