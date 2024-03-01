@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Use Jekyll and Github Pages to build the website"
+lang: en
 date:   2024-02-27 13:26:36 +0800
 categories: Miscellaneous
 ---
@@ -51,7 +52,17 @@ Bundle exec Jekyll serve —livereload
 {% endhighlight %} 
 
 > Remeber to set `JEKYLL_ENV=production` to force the environment to production.
- 
+
+{% if page.comments %}
+<script src="https://utteranc.es/client.js"
+        repo="jsy1164014200/jsy1164014200.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+{% endif %}
 
 <!-- Note: Jekyll 3.3 overrides this value with url: http://localhost:4000 when running jekyll serve locally in development. If you want to avoid this behavior set JEKYLL_ENV=production to force the environment to production.
 
