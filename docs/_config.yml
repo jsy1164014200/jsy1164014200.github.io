@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD interesting in Operations Research, Coding, and Algorithms."
   location         : "China"
-  email            : "shiyi.jiang@connect.polyu.hk"
+  email            : "mailto:shiyi.jiang@connect.polyu.hk"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
