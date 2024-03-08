@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Use Jekyll and Github Pages to build the website"
-lang: en
 date:   2024-02-27 13:26:36 +0800
 categories: Miscellaneous
 ---
