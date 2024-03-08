@@ -4,3 +4,63 @@ title:  "2024/03/08 每周总结"
 date:   2024-03-08 17:09:36 +0800
 categories: Notes
 ---
+差不多还有一年要准备找工作了。做了两年的不确定优化，发现自己真不是做这个料，于是准备尝试换个赛道，开始学习整数规划的一些东西。这周主要捡起来了一些遗忘的c++知识，看了几篇vrp相关的paper。下周可能动手写一写算法。
+
+# Paper
+
+1. A new optimization algorithm for the vehicle routing problem with time windows. 1992 or. 经典作，开创列生成结vrp。
+2. An Exact Algorithm for the elementary shortest path problem with resource constraints. 2016 ts. 比较新的ESPPRC的文章，但是感觉还是DP用的多一点。
+3. An Exact Solution Framework for Multitrip Vehicle-Routing Problems with Time Windows。2020 or。一个vrp大佬推荐的文章，还把复现代码发给我学习了。
+4. Fifty Years of Vehicle Routing。 review 
+5. Improved branch-cut-and-price for capacitated vehicle routing
+6. New Enhancements for the Exact Solution of the Vehicle Routing Problem with Time Windows
+
+# book
+
+1. Integer Programming Laurence A. Wolsey， Chapter1: 1.6 1.7是重点。
+
+
+ 
+
+
+
+
+# 知识点总结
+
+## 运筹算法相关
+
+1. 复习LP的[对偶][lp-dual]，[complementary slackness][cs]
+2. wiki学了一下spp最短路的一些算法
+3. SPPRC和ESPPRC的paper，什么是pseudo-polynomial time算法
+4. 发现了一个写[启发算法的博客][o-blog]，有时间研究一下。
+
+## c++相关
+1. c++头文件应该放哪些内容，可以看这篇[博客][zhishi-1]。
+2. class为什么可以定义在头文件，而不产生重定义。主要原因是class是局部链接的。
+3. class的static成员只能定义在类外。const static可以定义在里面。
+4. using namespace不要写在h文件中， using std::string 这种可以写，同时尽量避免使用using namespace std。
+5. c++的[范围枚举][enum-class] Enum class xx {}。
+6. constexpr常量表达式，字面量是什么
+7. 看了一下c++11的东西，比如auto，右值引用这种。
+8. to_string, stoi, ... 
+9. 模版函数的一些知识点
+
+
+
+
+
+
+
+# TODO lists
+
+1. 继续看看书，有空看看introduction to lp。捡点东西回来。（不确定这玩意做多了，人都魔怔了，搞得概率统计不太会，算法也不太会了。。。。可能还是我太垃圾了，这不会那不会）
+2. 看看面经，刷刷leecode。
+3. 先把ESPPRC复现了。 
+
+
+
+[zhishi-1]: https://www.runoob.com/w3cnote/cpp-header.html 
+[lp-dual]: https://en.wikipedia.org/wiki/Dual_linear_program
+[cs]: https://www.matem.unam.mx/~omar/math340/comp-slack.html
+[enum-class]: https://learn.microsoft.com/zh-cn/cpp/cpp/enumerations-cpp?view=msvc-170
+[o-blog]: https://jiangshibiao.github.io/Vehicle-Routing-Problem/
