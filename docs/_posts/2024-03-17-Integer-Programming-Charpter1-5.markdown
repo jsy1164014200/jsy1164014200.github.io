@@ -2,7 +2,7 @@
 layout: single
 title:  "2024/03/17 每周总结"
 date:   2024-03-17 07:30:36 +0800
-categories: Integer Programming
+categories: Integer-Programming
 ---
 最近在看Integer Programming, 2nd Edition (Laurence A. Wolsey)，打算写一些总结类的博客。这一篇是关于第一到五章的。
 

@@ -2,9 +2,9 @@
 layout: single
 title:  "IP (2nd) Chapter 9笔记"
 date:   2024-03-18 14:50:36 +0800
-categories: Integer Programming
+categories: Integer-Programming
 ---
-这一篇是Integer Programming, 2nd Edition (Laurence A. Wolsey) 第八章Strong Valid Inequality的笔记
+这一篇是Integer Programming, 2nd Edition (Laurence A. Wolsey) 第九章Strong Valid Inequality的笔记
 
 
 

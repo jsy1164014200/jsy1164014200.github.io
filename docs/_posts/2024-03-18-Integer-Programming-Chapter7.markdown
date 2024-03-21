@@ -2,7 +2,7 @@
 layout: single
 title:  "IP (2nd) Chapter 7笔记"
 date:   2024-03-18 14:20:36 +0800
-categories: Integer Programming
+categories: Integer-Programming
 ---
 这一篇是Integer Programming, 2nd Edition (Laurence A. Wolsey) 第七章Branch and Bound的笔记
 
