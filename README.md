@@ -16,5 +16,4 @@ Note: Jekyll 3.3 overrides this value with url: http://localhost:4000 when runni
 
 Note: Comments are disabled by default in development. To enable when testing/building locally be sure to set JEKYLL_ENV=production to force the environment to production.
 
-1. mac M1 cannot use cmake compile gurobi 
 
