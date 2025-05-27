@@ -6,26 +6,19 @@ author_profile: true
 toc: true
 ---
 ## Research Interests
-Operations Research and its Applications in Power System, Logistics, Transportation, Shipping, and Supply Chain Management
+
+Data-driven Optimization, Distributionally Robust Optimization, Quadratic Programming, Mixed-integer Programming, and their applications.
 
 ## Journal Publications 
-1. Jiang, S., Cheng, J., Pan, K., Qiu, F., & Yang, B. (2022). Data-driven chance-constrained planning for distributed generation: A partial sampling approach. IEEE Transactions on Power Systems.
 
-## Working Papers
-2. Jiang, S., Cheng, J., Pan, K., & Shen, Z. J. M. (2023). Optimized Dimensionality Reduction for Moment-based Distributionally Robust Optimization. arXiv preprint arXiv:2305.03996.
-3. Computing a Lower Bound for Nonconvex QCP via MILP Relaxation. 
+1. Jiang, S., Cheng, J., Pan, K., & Shen, Z. J. M. (2025). Optimized Dimensionality Reduction for Moment-based Distributionally Robust Optimization. *Operations Research*.
+2. Jiang, S., Cheng, J., Pan, K., & Yang, B. (2025). Asymptotically tight MILP approximations for a nonconvex QCP. *INFORMS Journal on Computing*.
+3. Jiang, S., Cheng, J., Pan, K., Qiu, F., & Yang, B. (2022). Data-driven chance-constrained planning for distributed generation: A partial sampling approach. *IEEE Transactions on Power Systems*.
 
 ## Selected Awards 
-1. [The 2023 INFORMS Computing Society (ICS) Student Paper Award][ICS-award], 2023
-2. National Scholarship, Ministry of Education of the People's Republic of China, 12/2019
-3. National Scholarship, Ministry of Education of the People's Republic of China, 11/2018
-4. Merit Student, Huazhong University of Science & Technology, 12/2019
-5. Merit Student, Huazhong University of Science & Technology, 11/2018
-6. Academic Excellence Award, Huazhong University of Science & Technology, 04/2018
+
+1. INFORMS Computing Society Student Paper Award, 2023
+2. National Scholarship, 2019
+3. National Scholarship, 2018
 
 
-## Teaching Experience
-### Teaching Assistant
-ERP, Business Analytics
-
-[ICS-award]: https://connect.informs.org/computing/awards/ics-student-paper-award

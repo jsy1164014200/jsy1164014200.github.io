@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-Currently, I am interesting in operations research projects. 
+I am currently seeking opportunities as an Algorithm Engineer in the job market.
 
 ## Working Experience
 1. Game Engineer (游戏开发工程师), Wuhan Weipai Network Technology Co., Ltd. 05/2020 - 10/2020
